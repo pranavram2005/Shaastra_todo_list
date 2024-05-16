@@ -1,0 +1,18 @@
+.input{
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+input{
+    height: 40px;
+  }  
+.input > button{
+    background-color: #1f6ea3;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600;
+    width: 100px;
+}  

@@ -1,0 +1,48 @@
+.tasks{
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.box{
+    border-bottom-style: ridge;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: space-between;
+}
+.usertask{
+    text-decoration:line-through 2px;
+}
+.work{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+}
+.buttons{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+p{
+    font-size: 17.5px;
+    font-weight: 500;
+}
+.buttons > div > button{
+    background-color: transparent;
+    border: 1px solid rgb(167, 164, 164);
+    border-radius: 5px;
+    color: rgb(145, 141, 141);
+    font-size: 18px;
+}
+.buttons > div > button:hover{
+    background-color: #1f6ea3;
+    border-color: white;
+    color: white;
+}
+img{
+    height: 300px;
+    width: 400px;
+}
