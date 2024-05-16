@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shaastra_todo_list/static/css/main.b328e540.css",
+    "main.js": "/Shaastra_todo_list/static/js/main.6eb7b114.js",
+    "static/js/453.64512fd7.chunk.js": "/Shaastra_todo_list/static/js/453.64512fd7.chunk.js",
+    "index.html": "/Shaastra_todo_list/index.html",
+    "main.b328e540.css.map": "/Shaastra_todo_list/static/css/main.b328e540.css.map",
+    "main.6eb7b114.js.map": "/Shaastra_todo_list/static/js/main.6eb7b114.js.map",
+    "453.64512fd7.chunk.js.map": "/Shaastra_todo_list/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b328e540.css",
+    "static/js/main.6eb7b114.js"
+  ]
+}
