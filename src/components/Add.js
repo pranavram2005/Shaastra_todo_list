@@ -2,7 +2,7 @@ import './Add.css';
 import { useState } from "react";
 
 const Add = (props) =>{
-    const initialformstate = {id:null,task:""};
+    const initialformstate = {id:null,task:"",status:"Pending"};
     const [Todo,setTodo] = useState(initialformstate);
     const HandleInput=(event)=>{
         const {name,value}=event.target
